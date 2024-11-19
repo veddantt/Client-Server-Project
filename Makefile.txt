@@ -1,0 +1,12 @@
+CC=javac
+
+all: server.class client.class
+
+server.class: server.java
+	$(CC) server.java
+
+client.class: client.java
+	$(CC) client.java
+
+clean:
+	-rm *.class
