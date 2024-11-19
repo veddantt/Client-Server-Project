@@ -5,7 +5,7 @@ This project is a simple client-server address book application implemented in J
 Authors
 
 - Vedant Patel
-- Mithali Singh
+
 
 Overview
 
@@ -75,5 +75,4 @@ Enter command: QUIT
 Server: 200 OK
 
 Responsibilities
-Vedant Patel: Implemented the ADD, LIST, and QUIT functions on the server side.
-Mithali Singh: Implemented the DELETE and SHUTDOWN functions, along with the client-side communication handling
+Vedant Patel: Implemented the ADD, LIST, and QUIT functions on the server side , also implemented the DELETE and SHUTDOWN functions, along with the client-side communication handling
